@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "tomatos",
+    "description": "Помидоры"
+  },
+  {
+    "id": 2,
+    "name": "peppers",
+    "description": "Перцы"
+  },
+  {
+    "id": 3,
+    "name": "strawberries",
+    "description": "Клубника"
+  }
+]
